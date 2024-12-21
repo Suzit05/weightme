@@ -1,0 +1,23 @@
+{
+  "name": "weightme",
+  "version": "1.0.0",
+  "description": "this is weightme npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujeet kr",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suzit05/weightme.git"
+  },
+  "keywords": [
+    "NPM",
+    "tutorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/Suzit05/weightme/issues"
+  },
+  "homepage": "https://github.com/Suzit05/weightme#readme"
+}
